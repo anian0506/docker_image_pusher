@@ -1,1 +1,1 @@
-dorowu/ubuntu-desktop-lxde-vnc  --platform linux/arm64
+redislabs/redisinsight
